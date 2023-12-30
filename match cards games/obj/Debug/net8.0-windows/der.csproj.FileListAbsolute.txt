@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\der.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\der.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\der.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\der.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\der\bin\Debug\net8.0-windows\der.exe
+C:\Users\moham\OneDrive\Desktop\der\bin\Debug\net8.0-windows\der.deps.json
+C:\Users\moham\OneDrive\Desktop\der\bin\Debug\net8.0-windows\der.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\der\bin\Debug\net8.0-windows\der.dll
+C:\Users\moham\OneDrive\Desktop\der\bin\Debug\net8.0-windows\der.pdb
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\der.dll
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\refint\der.dll
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\der.pdb
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\der.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\der\obj\Debug\net8.0-windows\ref\der.dll
